@@ -14,13 +14,14 @@ L1
 * [3dpass](https://telemetry.3dpass.org)
 * [Impact protocol](https://telemetry.polkadot.io/#/0x204c3dcefbb2d7a81612ee69f28fbfece6336b830f6315f48382a969eab8a978)
 * [Massa Labs](https://massa.com)
+* [Q](q.org)
 
 ## Cosmos Testnet
 * [Realio](https://explorer.dwentz.xyz/realio-network/staking/realiovaloper1yf0n6k74km9ztqktg6fwshvvg90k2e9wrlauh8)
 * [Ojo]
 * [Nibiru]
 * [Andromeda protocol]
-*
+
 
 ## End testnet
 * stride
