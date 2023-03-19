@@ -18,9 +18,7 @@ L1
 
 ## Cosmos Testnet
 * [Realio](https://explorer.dwentz.xyz/realio-network/staking/realiovaloper1yf0n6k74km9ztqktg6fwshvvg90k2e9wrlauh8)
-* [Ojo]
-* [Nibiru]
-* [Andromeda protocol]
+* [Bonus-block](https://explorer.dwentz.xyz/bonus-block/staking/bonusvaloper1v7uekypfe7ezl363z2ydh0hrdqcxtmvmyqhdfq)
 
 
 ## End testnet
